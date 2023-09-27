@@ -1,6 +1,9 @@
 # Movie-recommendation-website
 A movie recommendation website which suggests similar movies
-Content-Based Recommendation System Using cosine Similarity\
+Content-Based Recommendation System Using cosine Similarity
+
+NOTE: please download the similarity.pkl file which is needed to run the source code on system from here
+https://drive.google.com/file/d/1RZO93ZIi_Pv6O_VgYDEqp7jpncqvcnhG/view?usp=drive_link
 
 It is a type of recommendation system which works on the principle of similar content. It will check for other movies of similar content or the same genre of the movie the user is watching. There are various fundamentals attributes that are used to compute the similarity while checking about similar content.
 
